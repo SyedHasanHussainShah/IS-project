@@ -1,12 +1,10 @@
-[
-  {
-    "to": "0xabc123...",
-    "amount": "0.01",
-    "date": "2025-04-30"
-  },
-  {
-    "to": "0xdef456...",
-    "amount": "0.05",
-    "date": "2025-04-29"
-  }
-]
+Ø=Ü¸ Crypto Wallet - Transaction Receipt
+ Generated on: 30/04/2025, 9:10:03 am
+ Transaction 1
+ To: 0xabc123...
+ Amount: 0.01 ETH
+ Date: 2025-04-30
+ Transaction 2
+ To: 0xdef456...
+ Amount: 0.05 ETH
+ Date: 2025-04-29
